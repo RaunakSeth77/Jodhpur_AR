@@ -1,0 +1,4 @@
+#Mon Jul 15 17:35:37 IST 2024
+base.0=D\:\\flutterprojects\\indoornav\\unity\\1AR Indoor Navigation New Zip\\build\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

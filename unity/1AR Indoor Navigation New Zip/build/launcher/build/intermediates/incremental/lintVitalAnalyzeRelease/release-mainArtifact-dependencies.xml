@@ -1,0 +1,27 @@
+<dependencies>
+  <compile
+      roots="D:\flutterprojects\indoornav\unity\1AR Indoor Navigation New Zip\build@@:unityLibrary::release">
+    <dependency
+        name="D:\flutterprojects\indoornav\unity\1AR Indoor Navigation New Zip\build@@:unityLibrary::release"
+        simpleName="build:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\flutterprojects\indoornav\unity\1AR Indoor Navigation New Zip\build@@:unityLibrary::release,__local_aars__:D:\flutterprojects\indoornav\unity\1AR Indoor Navigation New Zip\build\unityLibrary\libs\unity-classes.jar:unspecified@jar,:arcore_client:@aar,:UnityARCore:@aar,:ARPresto:@aar,:unityandroidpermissions:@aar,D:\flutterprojects\indoornav\unity\1AR Indoor Navigation New Zip\build@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="D:\flutterprojects\indoornav\unity\1AR Indoor Navigation New Zip\build@@:unityLibrary::release"
+        simpleName="build:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\flutterprojects\indoornav\unity\1AR Indoor Navigation New Zip\build\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name=":arcore_client:@aar"/>
+    <dependency
+        name=":UnityARCore:@aar"/>
+    <dependency
+        name=":ARPresto:@aar"/>
+    <dependency
+        name=":unityandroidpermissions:@aar"/>
+    <dependency
+        name="D:\flutterprojects\indoornav\unity\1AR Indoor Navigation New Zip\build@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="build.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>

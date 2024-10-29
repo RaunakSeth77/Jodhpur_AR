@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4812021974334387029
+  m_GuidHigh: 8309622334524849839
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4712396663015748312
+      m_GuidHigh: 6943793216544045985
+    m_SerializedTextureGuid:
+      m_GuidLow: 13340960791079091703
+      m_GuidHigh: 17733098027515434009
+    m_Size: {x: 0.3, y: 0.3889}
+    m_SpecifySize: 1
+    m_Name: IHub
+    m_Texture: {fileID: 2800000, guid: f2aefdf79d27b92419d43cb9b39e18f6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5506783936268784115
+      m_GuidHigh: 298217678551747250
+    m_SerializedTextureGuid:
+      m_GuidLow: 8427547962531873587
+      m_GuidHigh: 15357980113783216984
+    m_Size: {x: 0.3, y: 0.3889}
+    m_SpecifySize: 1
+    m_Name: Lift
+    m_Texture: {fileID: 2800000, guid: 8a478333aa3874f458db8f1d8b8122d5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5102719648141655244
+      m_GuidHigh: 7345745107139001527
+    m_SerializedTextureGuid:
+      m_GuidLow: 10364118340875044902
+      m_GuidHigh: 331160547109065785
+    m_Size: {x: 0.3, y: 0.3889}
+    m_SpecifySize: 1
+    m_Name: OfficeOfAccounts
+    m_Texture: {fileID: 2800000, guid: 35f7c826beb88fd439540f56c3849804, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5359983931739432735
+      m_GuidHigh: 13590036350989825427
+    m_SerializedTextureGuid:
+      m_GuidLow: 15570261205949857376
+      m_GuidHigh: 16522181287028632632
+    m_Size: {x: 0.3, y: 0.3889}
+    m_SpecifySize: 1
+    m_Name: VishakhaMaamOffice
+    m_Texture: {fileID: 2800000, guid: 70afbe60ae12d81438acf29f57944ae5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5686347678494005855
+      m_GuidHigh: 3633794163829059979
+    m_SerializedTextureGuid:
+      m_GuidLow: 11755527997199557758
+      m_GuidHigh: 15031409086291152809
+    m_Size: {x: 0.37, y: 0.20379852}
+    m_SpecifySize: 1
+    m_Name: Project_Director
+    m_Texture: {fileID: 2800000, guid: 143d247e066ea324a98ff695ec4a9ad0, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5179859620734843161
+      m_GuidHigh: 1954715181306607520
+    m_SerializedTextureGuid:
+      m_GuidLow: 8994858247399407816
+      m_GuidHigh: 16771450456867431512
+    m_Size: {x: 0.37, y: 0.2708053}
+    m_SpecifySize: 1
+    m_Name: opposite_to_vishakha_maam
+    m_Texture: {fileID: 2800000, guid: 513c00c827eb7cd45864a5e15429c0e8, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4812947239064578746
+      m_GuidHigh: 8669998621930055842
+    m_SerializedTextureGuid:
+      m_GuidLow: 4599530504517915613
+      m_GuidHigh: 17852307105978876203
+    m_Size: {x: 0.37, y: 0.22105569}
+    m_SpecifySize: 1
+    m_Name: ErpDivision
+    m_Texture: {fileID: 2800000, guid: df5d13ddd09f3fd42b810d31ba22c0f7, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4929483629180048773
+      m_GuidHigh: 8634287401000886960
+    m_SerializedTextureGuid:
+      m_GuidLow: 5518070412706381971
+      m_GuidHigh: 11631533514611354601
+    m_Size: {x: 0.34, y: 0.23883922}
+    m_SpecifySize: 1
+    m_Name: HeadCC
+    m_Texture: {fileID: 2800000, guid: eaf500931fcd4c94e9eb75e31a826ba1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4758754018832900435
+      m_GuidHigh: 10203307292309706158
+    m_SerializedTextureGuid:
+      m_GuidLow: 2428652129961805653
+      m_GuidHigh: 356253743724666171
+    m_Size: {x: 0.26685688, y: 0.37}
+    m_SpecifySize: 1
+    m_Name: MahatmaPoster
+    m_Texture: {fileID: 2800000, guid: a15e87554e3e21b43b9d9c74e4aaf104, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5019141118667199315
+      m_GuidHigh: 15705209528253835955
+    m_SerializedTextureGuid:
+      m_GuidLow: 7256497256847941296
+      m_GuidHigh: 3233774639603123880
+    m_Size: {x: 0.34, y: 0.2410687}
+    m_SpecifySize: 1
+    m_Name: OfficeOfAccounts
+    m_Texture: {fileID: 2800000, guid: fc049eb041ce64b4a80636c5e6ace02c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5261960423704019374
+      m_GuidHigh: 2708927640586431677
+    m_SerializedTextureGuid:
+      m_GuidLow: 7324187371381253806
+      m_GuidHigh: 995735181636914410
+    m_Size: {x: 0.3, y: 0.3889}
+    m_SpecifySize: 1
+    m_Name: MainGateLeft
+    m_Texture: {fileID: 2800000, guid: eb94e6aebd9b65a4eaccd33fdf8fd10d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5535337969225209673
+      m_GuidHigh: 18444120829394915712
+    m_SerializedTextureGuid:
+      m_GuidLow: 18443625195770497708
+      m_GuidHigh: 6305107209491985546
+    m_Size: {x: 0.3, y: 0.3889}
+    m_SpecifySize: 1
+    m_Name: MainGateRight
+    m_Texture: {fileID: 2800000, guid: a4584aaceb65fff48a3486e4993d8057, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5229187131059736066
+      m_GuidHigh: 258299309870161313
+    m_SerializedTextureGuid:
+      m_GuidLow: 8017749482623119146
+      m_GuidHigh: 1666454124899131848
+    m_Size: {x: 0.37, y: 0.1613885}
+    m_SpecifySize: 1
+    m_Name: Lift
+    m_Texture: {fileID: 2800000, guid: b1d2af2ac4ac6f44c8e11885326f2017, type: 3}

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "424709336571",
+    "project_id": "iitj-ram",
+    "storage_bucket": "iitj-ram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424709336571:android:27570963fb41c308dcef5e",
+        "android_client_info": {
+          "package_name": "com.example.iitj_ram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424709336571-5m54qojs919c7bvtmg011vpos9nt6oon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPf5_PBV9fYAAuGEFY5dEcFbq0RTd9vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424709336571-5m54qojs919c7bvtmg011vpos9nt6oon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424709336571:android:cd879cea8ee1be81dcef5e",
+        "android_client_info": {
+          "package_name": "com.example.ram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424709336571-5m54qojs919c7bvtmg011vpos9nt6oon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPf5_PBV9fYAAuGEFY5dEcFbq0RTd9vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424709336571-5m54qojs919c7bvtmg011vpos9nt6oon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
