@@ -82,13 +82,9 @@ To run the app:
    - **Offline Navigation**: Access pre-downloaded maps for navigation in low-connectivity areas.
 ## Videos
 <h3>App Demo</h3>
-<video width="320" height="240" controls>
-  <source src="video1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/9d36899a-2db5-4bae-9fa2-223af009f96d
 
 <h3>Indoor Navigation Example</h3>
-<video width="320" height="240" controls>
-  <source src="video2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+![Indoor Navigation]([https://github.com/RaunakSeth77/Jodhpur_AR/blob/main/video2.mp4](https://github.com/RaunakSeth77/Jodhpur_AR/blob/main/video2.mp4))
