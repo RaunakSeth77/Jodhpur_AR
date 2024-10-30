@@ -81,11 +81,10 @@ To run the app:
    - **Dynamic Updates**: Real-time notifications about room availability or temporary route changes.
    - **Offline Navigation**: Access pre-downloaded maps for navigation in low-connectivity areas.
 ## Videos
-<h3>App Demo</h3>
+### App Demo
 
 https://github.com/user-attachments/assets/9d36899a-2db5-4bae-9fa2-223af009f96d
 
-<h3>Indoor Navigation Example</h3>
+### Indoor Navigation Example
 
-![videoindoor](https://github.com/user-attachments/assets/d1dc4eeb-8a1a-4853-bb13-8774c6a91c6c)
-
+https://github.com/user-attachments/assets/d1dc4eeb-8a1a-4853-bb13-8774c6a91c6c
