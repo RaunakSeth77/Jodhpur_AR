@@ -87,5 +87,5 @@ https://github.com/user-attachments/assets/9d36899a-2db5-4bae-9fa2-223af009f96d
 
 <h3>Indoor Navigation Example</h3>
 
-https://github.com/user-attachments/assets/d407b68c-b655-47c1-98c8-d6a08607df82
+![videoindoor](https://github.com/user-attachments/assets/d1dc4eeb-8a1a-4853-bb13-8774c6a91c6c)
 
