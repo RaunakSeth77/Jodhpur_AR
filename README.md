@@ -87,4 +87,5 @@ https://github.com/user-attachments/assets/9d36899a-2db5-4bae-9fa2-223af009f96d
 
 <h3>Indoor Navigation Example</h3>
 
-![Indoor Navigation]([https://github.com/RaunakSeth77/Jodhpur_AR/blob/main/video2.mp4](https://github.com/RaunakSeth77/Jodhpur_AR/blob/main/video2.mp4))
+https://github.com/user-attachments/assets/d407b68c-b655-47c1-98c8-d6a08607df82
+
