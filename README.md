@@ -1,8 +1,6 @@
 # AR Indoor and Outdoor Navigation App
 
 An Augmented Reality (AR) navigation app designed for seamless, real-time navigation across large environments, such as university campuses. This app leverages AR to provide clear indoor and outdoor navigation, integrating GPS, QR codes, and advanced pathfinding to guide users intuitively through complex spaces.
-##Overview
-This app is designed for use on campuses or other large venues, where it helps users seamlessly navigate between indoor and outdoor spaces. By utilizing both GPS and QR codes, this app provides accurate positioning and navigation regardless of GPS limitations indoors. Real-time AR overlays make navigation clear and intuitive, adapting dynamically to the users path.
 
 ## Overview
 This app is designed for use on campuses or other large venues, where it helps users seamlessly navigate between indoor and outdoor spaces. By utilizing both GPS and QR codes, this app provides accurate positioning and navigation regardless of GPS limitations indoors. Real-time AR overlays make navigation clear and intuitive, adapting dynamically to the users path.
